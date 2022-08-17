@@ -1,3 +1,3 @@
 # jaimemahaffey.github.io
 
-{{site.name}}
+{site.name}
