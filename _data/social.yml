@@ -1,9 +1,9 @@
 - title: Twitter
   url: https://twitter.com/lowintentions
   icon: fab fa-twitter
-- title: GitHub
+- title: Site Repo
   url: https://github.com/jaimemahaffey/jaimemahaffey.github.io
   icon: fab fa-github
-- title: GitHub
+- title: Theme Repo
   url: https://github.com/ngzhio/jekyll-theme-hamilton
   icon: fab fa-github
